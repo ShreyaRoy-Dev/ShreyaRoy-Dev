@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.MaCkH4vtmUTEe5k061V0iwHaCi?rs=1&pid=ImgDetMain)](https://ShreyaRoy-Dev.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/457/353/non_2x/vector-programming-flat-line-design-black-and-white-doodle-style-design-in-blue-banners-and-illustrations-of-business-and-technology-themes.jpg)](https://ShreyaRoy-Dev.io)
 <h1 align="center">Hi 👋, I'm Shreya Roy Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
