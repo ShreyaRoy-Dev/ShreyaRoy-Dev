@@ -1,9 +1,8 @@
-<!--[![MasterHead](https://th.bing.com/th/id/OIP.w9pQLIXqrR0OCfBo6XLEZwHaDU?rs=1&pid=ImgDetMain)](https://ShreyaRoy-Dev.io)-->
 <h1 align="center">Hi 👋, I'm Shreya Roy Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaroy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyaRoy-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyaRoy-Dev" /> </p>
 
 - 🔭 I’m currently working on **Medical Sensor using Arduino**
 
