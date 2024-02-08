@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyaRoy-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyaRoy-Dev" /> </p>
 
-- 🔭 I’m currently working on **Medical Sensor using Arduino**
+!<-- - 🔭 I’m currently working on **Medical Sensor using Arduino**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** -->
 
-- 💬 Ask me about **JavaScript, React, Next, Git**
+- 💬 Ask me about **JavaScript, React, Git**
 
 - 📫 How to reach me **shreya10march@gmail.com**
 
