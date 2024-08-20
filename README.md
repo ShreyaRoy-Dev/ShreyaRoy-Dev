@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyaRoy-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyaRoy-Dev" /> </p>
 
-- 💬 Ask me about **JavaScript, React, Git**
+- 💬 Ask me about **Java, Javascript, MySQL**
 
 - 📫 How to reach me **shreya10march@gmail.com**
 
